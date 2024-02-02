@@ -9,4 +9,8 @@ public class Feature1{
     public void JerinFunction(){
         System.Console.WriteLine("jerin");
     }
+	
+	public void SrijitFunction(){
+		
+	}
 }
