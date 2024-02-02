@@ -8,4 +8,8 @@ public class NewFeature
     {
         return "jeirn";
     }
+    public bool ReturnBoolean()
+    {
+        return true;
+    }
 }

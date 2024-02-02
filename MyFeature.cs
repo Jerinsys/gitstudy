@@ -12,5 +12,10 @@ namespace FirstProject
         {
           System.Console.WriteLine("jerin1");       
         }
+
+        public string Test()
+        {
+            return "test";
+        }
     }
 }
