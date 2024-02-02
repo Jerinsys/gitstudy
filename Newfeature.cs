@@ -4,4 +4,8 @@ public class NewFeature
     {
         return 10;
     }
+    public string ReturnString()
+    {
+        return "jeirn";
+    }
 }
