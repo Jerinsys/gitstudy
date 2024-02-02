@@ -7,3 +7,6 @@ void FristChange()
 {
     System.Console.WriteLine("first change");
 }
+
+var feature = new NewFeature();
+feature.ReturnBoolean();
