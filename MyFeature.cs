@@ -10,7 +10,7 @@ namespace FirstProject
     {
         public MyFeature()
         {
-                
+          System.Console.WriteLine("jerin1");       
         }
     }
 }
